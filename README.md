@@ -1,0 +1,1 @@
+This is a simple demonstration of a basic calculator using HTML , CSS and Java Script![Simple Calculator](https://github.com/Mouryautti/Simple-Calculator/assets/119556975/5bba53e0-6172-4fd5-84b1-83b83727ecde)
